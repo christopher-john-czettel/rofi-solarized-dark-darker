@@ -44,8 +44,8 @@ With the above bindings added, following shortcuts are available (assuming your 
 | <kbd>Win</kbd> + <kbd>Tab</kbd> | window        | Shows/searches all windows on *all* desktops  |
 | <kbd>Win</kbd> + <kbd>d</kbd> | drun        | Shows/searches drun-style menut |
 | <kbd>Win</kbd> + <kbd>r</kbd> | run        | Shows/searches executable binaries |
-| <kbd>Win</kbd> + <kbd>Shift></kbd> + <kbd>d</kbd> | ssh        | Shows/searches your ssh hosts from .ssh/config  |
-| <kbd>Win</kbd> + <kbd>Space></kbd> | combi        | Shows/searches all of the above at once  |
+| <kbd>Win</kbd> + <kbd>Shift</kbd> + <kbd>d</kbd> | ssh        | Shows/searches your ssh hosts from .ssh/config  |
+| <kbd>Win</kbd> + <kbd>Space</kbd> | combi        | Shows/searches all of the above at once  |
 
 
 # Author
