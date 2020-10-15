@@ -50,7 +50,7 @@ With the above bindings added, following shortcuts are available (<kbd>Meta</kbd
 
 While rofi is open, you can switch between modes with <kbd>Alt</kbd> + <kbd>h</kbd> and <kbd>Alt</kbd> + <kbd>l</kbd>.
 
-Use <kbd>Ctrl</bkd> + <kbd>n</kbd> or <kbd>Ctrl</bkd> + <kbd>p</kbd> to switch menu items.
+Use <kbd>Ctrl</kbd> + <kbd>n</kbd> or <kbd>Ctrl</bkd> + <kbd>p</kbd> to switch menu items.
 
 Then <kbd>Tab</kbd> or <kbd>Return</kbd> to run/switch to selection.
 
