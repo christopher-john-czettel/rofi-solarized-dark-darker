@@ -36,7 +36,7 @@ bindsym $mod+space exec rofi -show combi
 ```
 # Usage / Shortcuts
 
-With the above bindings added, following shortcuts are available (Meta probably is your "windows key" ;-)):
+With the above bindings added, following shortcuts are available (<kbd>Meta</kbd> probably is your "<kbd>Windows</kbd>" ;-)):
 
 | Shortcut      | Rofi mode     | Description |
 | ------------- | ------------- |  ------------- |
