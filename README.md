@@ -48,6 +48,8 @@ With the above bindings added, following shortcuts are available (Meta probably 
 | <kbd>Meta</kbd> + <kbd>Space</kbd> | combi        | Shows/searches all of the above at once  |
 
 
+While rofi is open, you can switch between modes with <kbd>Alt</kbd> + <kbd>h</kbd> and <kbd>Alt</kbd> + <kbd>l</kbd>.
+
 # Author
 
 - [Christopher John CZETTEL](https://github.com/christopher-john-czettel/) (https://christopher-czettel.net)
