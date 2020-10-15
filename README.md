@@ -27,7 +27,7 @@ Edit `~/.config/i3/config`:
 
 ```
 # rofi launcher/switcher biding5                                                                                                                                                                    
-bindsym Mod1+Tab exec rofi -show windowcd
+bindsym $mod+Tab exec rofi -show windowcd
 bindsym $mod+Tab exec rofi -show window
 bindsym $mod+Shift+d exec rofi -show ssh
 bindsym $mod+r exec rofi -show run
