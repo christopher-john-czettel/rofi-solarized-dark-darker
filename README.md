@@ -42,7 +42,7 @@ With the above bindings added, following shortcuts are available (Meta probably 
 | ------------- | ------------- |  ------------- |
 | <kbd>Alt</kbd> + <kbd>Tab</kbd> | windowcd      | Shows/searched all windows on current desktop |
 | <kbd>Meta</kbd> + <kbd>Tab</kbd> | window        | Shows/searches all windows on *all* desktops  |
-| <kbd>Meta</kbd> + <kbd>d</kbd> | drun        | Shows/searches drun-style menut |
+| <kbd>Meta</kbd> + <kbd>d</kbd> | drun        | Shows/searches drun-style menu |
 | <kbd>Meta</kbd> + <kbd>r</kbd> | run        | Shows/searches executable binaries |
 | <kbd>Meta</kbd> + <kbd>Shift</kbd> + <kbd>d</kbd> | ssh        | Shows/searches your ssh hosts from .ssh/config  |
 | <kbd>Meta</kbd> + <kbd>Space</kbd> | combi        | Shows/searches all of the above at once  |
