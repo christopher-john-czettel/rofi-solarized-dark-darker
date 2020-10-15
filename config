@@ -1,3 +1,15 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! Rofi - Solarized Dark (even darker) Color Theme
+!
+! Author:  Christopher John CZETTEL <chris@christopher-czettel.net>
+! GitHub:  https://github.com/christopher-john-czettel/rofi-solarized-dark-darker
+! Web:     https://christopher-czettel.net
+! License: GPLv3
+!
+! Based on work from Ethan Schoonover and Dean Davidson
+!
+
+
 ! "Enabled modi" Set from: Default
 rofi.modi:                           combi,drun,ssh,run,window,windowcd
 
