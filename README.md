@@ -1,6 +1,6 @@
 # rofi-solarized-dark-darker
 
-My rofi configuration file for usage with i3wm. Based on solarized but using black instead of gray, therefore darker. ;-)
+My rofi configuration for usage with i3wm. Based on solarized but using black instead of gray, therefore darker. ;-)
 
 <img src="preview.png"/>
 
@@ -49,6 +49,10 @@ With the above bindings added, following shortcuts are available (Meta probably 
 
 
 While rofi is open, you can switch between modes with <kbd>Alt</kbd> + <kbd>h</kbd> and <kbd>Alt</kbd> + <kbd>l</kbd>.
+
+Use <kbd>Ctrl</bkd> + <kbd>n</kbd> or <kbd>Ctrl</bkd> + <kbd>p</kbd> to switch menu items.
+
+Then <kbd>Tab</kbd> or <kbd>Return</kbd> to run/switch to selection.
 
 # Author
 
